@@ -1,0 +1,25 @@
+Short keys
+==========
+Ctrl+A - select all notes
+Ctrl+D - deselect all notes
+
+
+Instruments
+===========
+
+Bass: Plugin database -> generators -> installed -> Generators -> Fruity -> BooBass           
+
+
+Quick Quantize
+==============
+Helps to align MIDI notes to time pattern.
+
+* Go to the piano screen of the pattern you want to quantize.
+* Press Ctrl+A to select all notes.
+* Press Ctrl+Q to quantize (Or go to tools -> Quick Quantize).
+
+
+Plugin Links
+============
+
+https://plugins4free.com/plugin/1090/

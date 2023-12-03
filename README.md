@@ -28,7 +28,7 @@ Augmented chord = Major 3rd + Major 3rd
 ### Triads
 ```
 A  - A  C# E  
-A  - A  C  E  
+Am - A  C  E  
  
 C  - C  E  G     
 Cm - C  D# G     
